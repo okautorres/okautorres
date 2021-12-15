@@ -12,7 +12,7 @@ I'm currently studying to be a Dev. Full Stack, attending web developer on B7Web
   <img align="center" alt="Howlter-Html5" height="40" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Howlter-PHP" height="40" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Howlter-Java" height="40" width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Howlter-Mysql" height="45" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Howlter-Mysql" height="40" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="right" alt="Howlter-pic" height="150" style="border-radius:30px;" src="https://cdn.discordapp.com/attachments/472549865025437718/920674075477671946/254965534_4435202483264798_7653139738454840402_n.jpg?width=600&height=600">
 </div>
   
