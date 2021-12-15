@@ -19,6 +19,5 @@ I'm currently studying to be a Dev. Full Stack
   <img align="right" alt="Howlter-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/472549865025437718/920674075477671946/254965534_4435202483264798_7653139738454840402_n.jpg?width=676&height=676">
 </div>
   
-    ##
   
   
