@@ -1,5 +1,5 @@
 ## Hey guys, I'm Howlter, welcome to my profile.
- I'm currently studying to be a Dev. Full Stack
+ I'm currently studying to be a Dev. Full Stack, attending web developer on B7Web.
 
 <div align="center">
   <a href="https://github.com/Howlter">
