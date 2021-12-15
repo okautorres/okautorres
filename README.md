@@ -14,7 +14,7 @@ I'm currently studying to be a Dev. Full Stack
   <img align="center" alt="Howlter-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Howlter-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Howlter-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Howlter-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Howlter-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     
   <img align="right" alt="Howlter-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/472549865025437718/920674075477671946/254965534_4435202483264798_7653139738454840402_n.jpg?width=676&height=676">
 </div>
