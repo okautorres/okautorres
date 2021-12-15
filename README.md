@@ -18,8 +18,7 @@ I'm currently studying to be a Dev. Full Stack, attending web developer on B7Web
   <img align="right" alt="Howlter-pic" height="150" style="border-radius:30px;" src="https://cdn.discordapp.com/attachments/472549865025437718/920674075477671946/254965534_4435202483264798_7653139738454840402_n.jpg?width=600&height=600">>
 </div>
   
-    ##
- 
+
 <div> 
   <a href="https://instagram.com/okautorres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:darqueboost@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
