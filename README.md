@@ -16,7 +16,7 @@
   <img align="center" alt="Howlter-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Howlter-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     
-  <img align="right" alt="Howlter-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/472549865025437718/920674075477671946/254965534_4435202483264798_7653139738454840402_n.jpg?width=800&height=800">>
+  <img align="right" alt="Howlter-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/472549865025437718/920674075477671946/254965534_4435202483264798_7653139738454840402_n.jpg?width=600&height=600">>
 </div>
   
   
