@@ -15,7 +15,7 @@ I'm currently studying to be a Dev. Full Stack, attending web developer on B7Web
   <img align="center" alt="Howlter-Illustrator" height="30" width="40" src="https://aleen42.github.io/badges/src/illustrator.svg">
   <img align="center" alt="Howlter-Office" height="30" width="40" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
   <img align="center" alt="Howlter-Mysql" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="right" alt="Howlter-pic" height="150" style="border-radius:30px;" src="https://cdn.discordapp.com/attachments/472549865025437718/920674075477671946/254965534_4435202483264798_7653139738454840402_n.jpg?width=600&height=600">>
+  <img align="right" alt="Howlter-pic" height="150" style="border-radius:30px;" src="https://cdn.discordapp.com/attachments/472549865025437718/920674075477671946/254965534_4435202483264798_7653139738454840402_n.jpg?width=600&height=600">
 </div>
   ###
 
