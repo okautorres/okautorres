@@ -18,8 +18,10 @@ I'm currently studying to be a Dev. Full Stack, attending web developer on B7Web
     <div style="display: flex;"><br>
   <img align="center" alt="Howlter-Illustrator" height="30" width="80" src="https://aleen42.github.io/badges/src/illustrator.svg">
   <img align="center" alt="Howlter-Photoshop" height="30" width="80" src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img align="center" alt="Howlter-Photoshop" height="30" width="80" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div>
   
+ 
   ##
 
 <div> 
