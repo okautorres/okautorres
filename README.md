@@ -29,7 +29,6 @@ I'm currently studying to be a Dev. Full Stack, attending web developer on Fatec
   <a href="https://www.linkedin.com/in/okautorres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/1z04ahdox6w9npg0ung4deqaz?si=d301d133f4614aa3" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
     <a href="https://steamcommunity.com/id/okautorres/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a><br><br>
-  <img align="center" alt="okautorres-ask" height:"30" width="80" src="[https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg](https://media.discordapp.net/attachments/1237910807749066909/1250270951090683936/a_ae326287e5fb754dae8f1896adfc2fce.gif?ex=666a550f&is=6669038f&hm=9eb12ae7647a513b23b35cc3ffdb5ef8d9cd52637291cb3e233ee0c6ca3a4ef5&=)">
  
   ![Snake animation](https://github.com/okautorres/okautorres/blob/output/github-contribution-grid-snake.svg)
  
