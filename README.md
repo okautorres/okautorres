@@ -13,7 +13,7 @@ I'm currently studying to be a Dev. Full Stack, attending web developer on Fatec
   <img align="center" alt="okautorres-PHP" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="okautorres-Java" height="30" width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="okautorres-Mysql" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="right" alt="okautorres-pic" height="150" style="border-radius:30px;" src="[https://cdn.discordapp.com/attachments/472549865025437718/920674075477671946/254965534_4435202483264798_7653139738454840402_n.jpg](https://media.discordapp.net/attachments/1237910807749066909/1250270951090683936/a_ae326287e5fb754dae8f1896adfc2fce.gif?ex=666a550f&is=6669038f&hm=9eb12ae7647a513b23b35cc3ffdb5ef8d9cd52637291cb3e233ee0c6ca3a4ef5&=)?width=600&height=600">
+  <img align="right" alt="okautorres-pic" height="150" style="border-radius:30px;" src="https://media.discordapp.net/attachments/1237910807749066909/1250270951090683936/a_ae326287e5fb754dae8f1896adfc2fce.gif?ex=666a550f&is=6669038f&hm=9eb12ae7647a513b23b35cc3ffdb5ef8d9cd52637291cb3e233ee0c6ca3a4ef5&=">
 </div>
     <div style="display: flex;"><br>
   <img align="center" alt="okautorres-Illustrator" height="30" width="80" src="https://aleen42.github.io/badges/src/illustrator.svg">
