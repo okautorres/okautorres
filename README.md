@@ -30,7 +30,7 @@ I'm currently studying to be a Dev. Full Stack, attending web developer on Fatec
   <a href="https://open.spotify.com/user/1z04ahdox6w9npg0ung4deqaz?si=d301d133f4614aa3" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
     <a href="https://steamcommunity.com/id/okautorres/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a><br><br>
  
-  ![Snake animation](https://github.com/okautorres/okautorres/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/okautorres/okautorres/blob/main/.github/workflows/main.yml)
  
 </div>
   
