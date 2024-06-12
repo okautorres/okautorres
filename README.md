@@ -1,25 +1,22 @@
 ![Header](./kauan2.png)
 
-#I'm currently studying to be a Dev. Full Stack, attending web developer on Fatec - Faculdade de Tecnologia de São Paulo.
-
-<div align="center">
+## Welcome to my profile !
+Currently studying software analysis and development at Fatec Ipiranga, simultaneously with online courses to improve practice and fix programming content, trying to keep up to date with recurring innovations and always willing to learn. Integrity is what moves me.
+> "...I have not found among my belongings anything of greater value or that I value as much as the knowledge of the actions of great men, acquired through long experience of modern things and a continuous lesson from ancient things..." - Maquiavel Nicolau
+<div align="left">
   <a href="https://github.com/okautorres">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okautorres&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+    
   <div style="display: flex;"><br>
-  <img align="center" alt="okautorres-Css3" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="okautorres-Git" height="30" width="80" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="okautorres-Html5" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="okautorres-PHP" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="okautorres-Java" height="30" width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="okautorres-Mysql" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="okautorres-Laravel" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" alt="okautorres-css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="okautorres-Html5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="okautorres-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="okautorres-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="okautorres-git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="right" alt="okautorres-pic" height="150" style="border-radius:30px;" src="https://media.discordapp.net/attachments/1237910807749066909/1250270951090683936/a_ae326287e5fb754dae8f1896adfc2fce.gif?ex=666a550f&is=6669038f&hm=9eb12ae7647a513b23b35cc3ffdb5ef8d9cd52637291cb3e233ee0c6ca3a4ef5&=">
-</div>
-    <div style="display: flex;"><br>
-  <img align="center" alt="okautorres-Illustrator" height="30" width="80" src="https://aleen42.github.io/badges/src/illustrator.svg">
-  <img align="center" alt="okautorres-Photoshop" height="30" width="80" src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img align="center" alt="okautorres-Photoshop" height="30" width="80" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-</div>
+
   
  
   ##
@@ -28,10 +25,7 @@
   <a href="https://instagram.com/okautorres" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:darqueboost@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/okautorres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/1z04ahdox6w9npg0ung4deqaz?si=d301d133f4614aa3" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-    <a href="https://steamcommunity.com/id/okautorres/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a><br><br>
- 
-  ![Snake animation](https://github.com/okautorres/okautorres/blob/main/.github/workflows/main.yml)
+   <a href="https://steamcommunity.com/id/okautorres/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a><br><br>
  
 </div>
   
