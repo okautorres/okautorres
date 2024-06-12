@@ -1,5 +1,6 @@
-![Header](./kauan.png)
-I'm currently studying to be a Dev. Full Stack, attending web developer on Fatec - Faculdade de Tecnologia de São Paulo.
+![Header](./kauan2.png)
+
+##I'm currently studying to be a Dev. Full Stack, attending web developer on Fatec - Faculdade de Tecnologia de São Paulo.
 
 <div align="center">
   <a href="https://github.com/okautorres">
