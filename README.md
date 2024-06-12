@@ -1,4 +1,4 @@
-## Hey guys, I'm Kauan, welcome to my profile.
+![Header](./kauan.png)
 I'm currently studying to be a Dev. Full Stack, attending web developer on Fatec - Faculdade de Tecnologia de São Paulo.
 
 <div align="center">
