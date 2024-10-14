@@ -9,7 +9,8 @@ Currently studying software analysis and development at Fatec Ipiranga, simultan
 </div>
     
   <div style="display: flex;"><br>
-  <img align="center" alt="okautorres-Laravel" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" alt="okautorres-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="okautorres-Java" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" >   
   <img align="center" alt="okautorres-css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="okautorres-Html5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="okautorres-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
