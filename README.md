@@ -14,11 +14,7 @@ Currently studying software analysis and development at Fatec Ipiranga, simultan
   <img align="center" alt="okautorres-SQLServer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
   <img align="center" alt="okautorres-git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="okautorres-Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg">
-
-  
- 
-  ##
-
+    
 <div> 
   <a href="https://www.linkedin.com/in/okautorres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
