@@ -4,8 +4,6 @@
 Currently studying software analysis and development at Fatec Ipiranga, simultaneously with online courses to improve practice and fix programming content, trying to keep up to date with recurring innovations and always willing to learn. Integrity is what moves me.
 > "...I have not found among my belongings anything of greater value or that I value as much as the knowledge of the actions of great men, acquired through long experience of modern things and a continuous lesson from ancient things..." - Maquiavel Nicolau
 <div align="left">
-  <a href="https://github.com/okautorres">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okautorres&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
     
   <div style="display: flex;"><br>
